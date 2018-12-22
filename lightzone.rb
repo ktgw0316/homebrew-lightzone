@@ -19,7 +19,7 @@ class Lightzone < Formula
 
   def install
     ENV.deparallelize
-    system "JAVA_HOME=$(/usr/libexec/java_home -v 1.8)" "ant", "-f", "macosx/build.xml", "build-bundle"
+    system "ant", "-f", "macosx/build.xml", "build-bundle"
     prefix.install "macosx/release/LightZone.app"
     bin.install_symlink prefix/"LightZone.app/Contents/bin/lightzone"
   end
