@@ -2,7 +2,7 @@ class Lightzone < Formula
   desc "Open-source professional-level digital darkroom software"
   homepage "http://lightzoneproject.org/"
   url "https://github.com/ktgw0316/LightZone/archive/4.1.9.tar.gz"
-  sha256 "8fa2dee0edbb55c9b2375aa1e76f55ef7bf68aae1e0bc5f1db58f99a67359f12"
+  sha256 "b8e022bc565acdd91ca617cf38098109c9a33febc45641aaf55be7458761a21a"
   head "https://github.com/ktgw0316/LightZone.git"
 
   depends_on :java => "1.8"
