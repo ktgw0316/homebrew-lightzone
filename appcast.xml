@@ -7,15 +7,21 @@
         <language>en</language>
         <item>
             <title>Mac OS DMG 64-bit</title>
-            <pubDate>Fri Jan 5 21:40:47 2018 +0900</pubDate>
-            <sparkle:releaseNotesLink>https://github.com/ktgw0316/LightZone/releases/tag/4.1.8</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/ktgw0316/LightZone/releases/download/4.1.8/LightZone-4.1.8-20180104.dmg" sparkle:version="4.1.8" type="application/octet-stream"/>
+            <pubDate>Sat Dec 22 04:46:40 2018 +0900</pubDate>
+            <sparkle:releaseNotesLink>https://github.com/ktgw0316/LightZone/releases/tag/4.1.9</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/ktgw0316/LightZone/releases/download/4.1.9/LightZone-4.1.9-20181222.dmg" sparkle:version="4.1.9" type="application/octet-stream"/>
         </item>
         <item>
             <title>Windows EXE-Installer 64-bit</title>
-            <pubDate>Fri Jan 5 21:40:47 2018 +0900</pubDate>
-            <sparkle:releaseNotesLink>https://github.com/ktgw0316/LightZone/releases/tag/4.1.8</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/ktgw0316/LightZone/releases/download/4.1.8/LightZone-Installer-4.1.8-20180105-64bit.exe" sparkle:version="4.1.8" type="application/octet-stream"/>
+            <pubDate>Sat Dec 22 04:46:40 2018 +0900</pubDate>
+            <sparkle:releaseNotesLink>https://github.com/ktgw0316/LightZone/releases/tag/4.1.9</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/ktgw0316/LightZone/releases/download/4.1.9/LightZone-Installer-4.1.9-20181222-64bit.exe" sparkle:version="4.1.9" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Windows EXE-Installer 32-bit</title>
+            <pubDate>Sat Dec 22 04:46:40 2018 +0900</pubDate>
+            <sparkle:releaseNotesLink>https://github.com/ktgw0316/LightZone/releases/tag/4.1.9</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/ktgw0316/LightZone/releases/download/4.1.9/LightZone-Installer-4.1.9-20181222-32bit.exe" sparkle:version="4.1.9" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
