@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>LightZone Changelog</title>
         <link>https://github.com/ktgw0316/homebrew-lightzone/raw/master/appcast.xml</link>
@@ -7,21 +7,21 @@
         <language>en</language>
         <item>
             <title>Mac OS DMG 64-bit</title>
-            <pubDate>Sat Dec 22 04:46:40 2018 +0900</pubDate>
-            <sparkle:releaseNotesLink>https://github.com/ktgw0316/LightZone/releases/tag/4.1.9</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/ktgw0316/LightZone/releases/download/4.1.9/LightZone-4.1.9-20181222.dmg" sparkle:version="4.1.9" type="application/octet-stream"/>
+            <pubDate>Sun Mar 08 21:22:45 2020 +0900</pubDate>
+            <sparkle:releaseNotesLink>https://github.com/ktgw0316/LightZone/releases/tag/4.2.0</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/ktgw0316/LightZone/releases/download/4.2.0/LightZone-4.2.0-20200306.dmg" sparkle:version="4.2.0" type="application/octet-stream"/>
         </item>
         <item>
             <title>Windows EXE-Installer 64-bit</title>
-            <pubDate>Sat Dec 22 04:46:40 2018 +0900</pubDate>
-            <sparkle:releaseNotesLink>https://github.com/ktgw0316/LightZone/releases/tag/4.1.9</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/ktgw0316/LightZone/releases/download/4.1.9/LightZone-Installer-4.1.9-20181222-64bit.exe" sparkle:version="4.1.9" type="application/octet-stream"/>
+            <pubDate>Sun Mar 08 21:22:45 2020 +0900</pubDate>
+            <sparkle:releaseNotesLink>https://github.com/ktgw0316/LightZone/releases/tag/4.2.0</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/ktgw0316/LightZone/releases/download/4.2.0/LightZone_Installer_4.2.0_20200306_windows-x64.exe" sparkle:version="4.2.0" type="application/octet-stream"/>
         </item>
         <item>
             <title>Windows EXE-Installer 32-bit</title>
-            <pubDate>Sat Dec 22 04:46:40 2018 +0900</pubDate>
-            <sparkle:releaseNotesLink>https://github.com/ktgw0316/LightZone/releases/tag/4.1.9</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/ktgw0316/LightZone/releases/download/4.1.9/LightZone-Installer-4.1.9-20181222-32bit.exe" sparkle:version="4.1.9" type="application/octet-stream"/>
+            <pubDate>Sun Mar 08 21:22:45 2020 +0900</pubDate>
+            <sparkle:releaseNotesLink>https://github.com/ktgw0316/LightZone/releases/tag/4.2.0</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/ktgw0316/LightZone/releases/download/4.2.0/LightZone_Installer_4.2.0_20200306_windows-x32.exe" sparkle:version="4.2.0" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
