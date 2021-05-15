@@ -6,22 +6,22 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Mac OS DMG 64-bit</title>
-            <pubDate>Mon Nov 30 2020 00:44:08 2020 +0900</pubDate>
-            <sparkle:releaseNotesLink>https://github.com/ktgw0316/LightZone/releases/tag/4.2.2</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/ktgw0316/LightZone/releases/download/4.2.2/LightZone-4.2.2-20201128.dmg" sparkle:version="4.2.2" type="application/octet-stream"/>
+            <title>Mac OS DMG Intel 64-bit</title>
+            <pubDate>Mon, 26 Apr 2021 00:00:00 +0900</pubDate>
+            <sparkle:releaseNotesLink>https://github.com/ktgw0316/LightZone/releases/tag/4.2.3</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/ktgw0316/LightZone/releases/download/4.2.3/LightZone-4.2.3-20210426.dmg" sparkle:version="4.2.3" type="application/octet-stream"/>
         </item>
         <item>
             <title>Windows EXE-Installer 64-bit</title>
-            <pubDate>Wed Jan 06 00:44:08 2021 +0900</pubDate>
-            <sparkle:releaseNotesLink>https://github.com/ktgw0316/LightZone/releases/tag/4.2.2</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/ktgw0316/LightZone/releases/download/4.2.2/LightZone_Installer_4.2.2_20210106_windows-x64.exe" sparkle:version="4.2.2" type="application/octet-stream"/>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 +0900</pubDate>
+            <sparkle:releaseNotesLink>https://github.com/ktgw0316/LightZone/releases/tag/4.2.3</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/ktgw0316/LightZone/releases/download/4.2.3/LightZone_Installer_4.2.3_20210423_windows-x64.exe" sparkle:version="4.2.3" type="application/octet-stream"/>
         </item>
         <item>
             <title>Windows EXE-Installer 32-bit</title>
-            <pubDate>Mon Nov 30 00:44:08 2020 +0900</pubDate>
-            <sparkle:releaseNotesLink>https://github.com/ktgw0316/LightZone/releases/tag/4.2.2</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/ktgw0316/LightZone/releases/download/4.2.2/LightZone_Installer_4.2.2_20201126_windows-x32.exe" sparkle:version="4.2.2" type="application/octet-stream"/>
+            <pubDate>Fri, 23 Apr 2021 00:00:00 +0900</pubDate>
+            <sparkle:releaseNotesLink>https://github.com/ktgw0316/LightZone/releases/tag/4.2.3</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/ktgw0316/LightZone/releases/download/4.2.3/LightZone_Installer_4.2.3_20210423_windows-x32.exe" sparkle:version="4.2.3" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
